@@ -1,42 +1,40 @@
 # Coca-Cola India consumer growth case
 
-This case asks how trial during a major Indian occasion could be turned into a measurable second purchase after the event.
+This case asks how a first purchase during a major Indian occasion could be turned into a measurable second purchase after the event.
 
-## The problem
+## What I was trying to solve
 
-Large events can create reach, product availability and first-time purchase at the same time. They do not automatically create repeat. The business question is what reason a consumer would have to buy again once the event is over.
+Large events can create reach, availability and trial at the same time. They do not automatically create repeat. The practical question is what reason a buyer has to return when the event is over.
 
-Coca-Cola reported more than 180 million servings during its Maha Kumbh activation and double-digit India volume growth in Q1 2025. Its full-year filing later reported even unit-case volume for India and Southwest Asia. These periods are different, so the campaign cannot be credited with a full-year result.
+## What I did
 
-## How I approached it
-
-- Reviewed Coca-Cola's public reporting and published research on names, self-reference and sharing.
-- Separated company-reported facts from my interpretation.
-- Designed a three-cell outlet test rather than assuming a nationwide campaign would work.
-- Chose transactions, repeat and gross margin as the main measures instead of impressions alone.
+1. Reviewed Coca-Cola's public reporting and research on names, self-reference and sharing.
+2. Kept company facts separate from my own interpretation.
+3. Designed a three-cell outlet test instead of assuming a national campaign would work.
+4. Chose transactions, repeat and gross margin as the main measures.
 
 ![Public evidence and case inference](visuals/public-signal.png)
 
-## Recommendation
+## My recommendation
 
 Run a small outlet test around one locally relevant consumption moment:
 
 1. **Control:** current assortment, display and communication.
 2. **Personal cue:** a locally reviewed name, role or relationship cue on the pack.
-3. **Sharing cue:** the same pack treatment plus a group-sharing prompt and an opt-in reason to return.
+3. **Sharing cue:** the same pack treatment plus a group-sharing prompt and a reason to return.
 
-The main result is incremental transactions per eligible outlet. I would also check 30-day repeat, gross margin after activation cost, availability and retailer execution.
+The main result should be incremental transactions per eligible outlet. I would also check 30-day repeat, gross margin after activation cost, availability and retailer execution.
 
-## Project files
+## Tools used
 
-| File | What it contains |
-|---|---|
-| [PowerPoint deck](deck/coca-cola-india-occasion-to-habit-case.pptx) | Editable presentation of the case and test design |
-| [PDF deck](deck/coca-cola-india-occasion-to-habit-case.pdf) | Easy-to-open presentation copy |
-| [Case notes](CASE_NOTES.md) | The question, reasoning, pilot cells and measurements |
-| [Evidence ledger](analysis/evidence-ledger.csv) | Company facts, research evidence, interpretation and limitations |
-| [Sources](sources/SOURCES.md) | Links used in the case |
+Public research, evidence review, consumer-behaviour framing, experiment design and PowerPoint.
 
-## What remains unknown
+## Main files
 
-Public information does not provide outlet baselines, pack margins, bottler constraints or the consumer identifiers needed to measure repeat. Those inputs would determine the final outlet count, pack, price and financial hurdle.
+- [PDF presentation](deck/coca-cola-india-occasion-to-habit-case.pdf): full case and test design
+- [Editable PowerPoint](deck/coca-cola-india-occasion-to-habit-case.pptx): presentation source
+- [Case notes](CASE_NOTES.md): question, reasoning, test cells and measures
+- [Evidence ledger](analysis/evidence-ledger.csv): facts, research, interpretation and limits
+- [Sources](sources/SOURCES.md): links used in the case
+
+Public information does not include outlet baselines, pack margins, bottler constraints or the customer identifiers needed to measure repeat. Those inputs would set the final sample and financial hurdle.
