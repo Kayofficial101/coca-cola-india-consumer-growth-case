@@ -10,7 +10,7 @@ I chose this question because the public evidence contains a tension worth solvi
 
 Large events can solve attention, distribution intensity and trial at the same time. They do not automatically solve repeat. Share a Coke adds a useful consumer mechanism: the pack becomes personally relevant and socially transferable. Research on adding a consumer's name to a standard product also links the effect to psychological ownership and improved product attitude.
 
-The strategic gap sits after the first shared drink. A follow-up occasion must be easy to understand, available at the outlet and measurable without depending on vanity engagement.
+The gap sits after the first shared drink. A follow-up occasion must be easy to understand, available at the outlet and measurable through purchases and repeat, not just social engagement.
 
 ## The proposed pilot
 

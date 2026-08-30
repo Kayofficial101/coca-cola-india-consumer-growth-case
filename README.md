@@ -1,14 +1,14 @@
 # Coca-Cola India consumer growth case
 
-I used public company reporting and consumer research to answer one question: how could Coca-Cola turn large Indian cultural activations into repeatable consumption occasions, without confusing reach with durable growth?
+I used public company reporting and consumer research to answer one question: how could Coca-Cola turn the reach of a large Indian cultural event into repeat purchases after the event?
 
-> **Independent portfolio case study. I did not work for Coca-Cola and I did not use company-confidential data.** Recommendations are hypotheses to test, not claims about Coca-Cola's internal plans.
+> **Independent public-source case study. I did not work for Coca-Cola and I did not use company-confidential data.** Recommendations are hypotheses to test, not claims about Coca-Cola's internal plans.
 
 ## The short version
 
 Coca-Cola reported double-digit India volume growth in Q1 2025 after a large Maha Kumbh activation, including more than 180 million servings. For full-year 2025, volume in India and Southwest Asia was even. Those periods are not directly comparable, but together they suggest a useful strategy question: how can high-reach moments create repeat behaviour after the event ends?
 
-My answer is an **occasion-to-habit pilot** that combines a locally relevant moment, a personalized social object, an affordable entry pack chosen through field economics, and a measurable repeat prompt.
+My answer is an **occasion-to-habit pilot** built around a locally relevant moment, a personalized pack people want to share, an affordable entry pack chosen after checking outlet economics, and a measurable reason to return.
 
 ![Public evidence and case inference](visuals/public-signal.png)
 
