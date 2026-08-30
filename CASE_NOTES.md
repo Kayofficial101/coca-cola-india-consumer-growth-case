@@ -1,42 +1,27 @@
 # Case notes
 
-## The question I chose
+## Question
 
-How could Coca-Cola use the reach of major Indian occasions to create repeatable micro-occasions after the event?
+How could Coca-Cola use a major Indian occasion to create a second purchase after the event?
 
-I chose this question because the public evidence contains a tension worth solving. The Q1 2025 India update described double-digit volume growth and a Maha Kumbh activation with more than 180 million servings. The 2025 Form 10-K later reported India and Southwest Asia unit-case volume as even for the full year. This does not prove the activation failed. It shows why a serious growth plan needs a repeat mechanism and a longer measurement window.
+## Diagnosis
 
-## My diagnosis
+Large events can create reach, distribution and trial at once. Repeat requires another occasion that is easy to understand and available at the outlet.
 
-Large events can solve attention, distribution intensity and trial at the same time. They do not automatically solve repeat. Share a Coke adds a useful consumer mechanism: the pack becomes personally relevant and socially transferable. Research on adding a consumer's name to a standard product also links the effect to psychological ownership and improved product attitude.
+Share a Coke offers a useful mechanism: a personalized pack can feel more relevant and easier to share. Research on names and self-reference supports testing that mechanism, but the commercial effect still needs to be measured in market.
 
-The gap sits after the first shared drink. A follow-up occasion must be easy to understand, available at the outlet and measurable through purchases and repeat, not just social engagement.
+## Pilot
 
-## The proposed pilot
+**Cell A:** current assortment, display and communication.
 
-### Cell A: business as usual
+**Cell B:** a locally reviewed set of names, roles or relationship cues tied to one consumption moment.
 
-Keep the normal assortment, display and communication.
+**Cell C:** the same pack cue plus a group-sharing prompt and an opt-in return mechanic. Candidate moments could include a campus break, team celebration or commute stop; observation and retailer interviews should decide the final choice.
 
-### Cell B: personalized occasion cue
+## Readout
 
-Use a locally reviewed set of names, roles or relationship cues tied to a real consumption moment. Keep the pack and message simple enough to understand at the shelf.
+Incremental transactions per eligible outlet is the main result. I would also track 30-day repeat, gross margin after activation cost, availability, retailer execution and opt-in behavior.
 
-### Cell C: personalized cue plus repeat loop
+The pilot should stop or change if availability drops, engagement rises without a transaction lift, activation cost absorbs the added gross margin, or the name set raises privacy or cultural-fit concerns.
 
-Add a group-sharing prompt and an opt-in return mechanism. The second occasion might be a campus break, team celebration or commute stop. The exact occasion should come from observation and retailer interviews, not a national creative guess.
-
-## How I would read the test
-
-The primary outcome is incremental transactions per eligible outlet versus control. I would then check 30-day repeat, gross margin after activation cost, availability, retailer execution and opt-in share behaviour. A spike with weak repeat would be a learning, not a win.
-
-## Stop rules
-
-- Stop or redesign if availability falls below the agreed threshold.
-- Stop if the treatment lifts scans or shares but not transactions.
-- Stop if activation cost erases the incremental gross margin in the test window.
-- Escalate any privacy, cultural-fit or name-representation issue before scale.
-
-## What public data cannot answer
-
-This case does not know Coca-Cola India's SKU economics, channel margins, outlet-level baseline, media mix, consumer identifiers or bottler constraints. Those inputs would set sample size, package choice, price architecture and financial hurdle rates.
+Outlet baseline, margins, media mix, consumer identifiers and bottler constraints are not public. Those inputs would set sample size, pack, price and the financial hurdle.

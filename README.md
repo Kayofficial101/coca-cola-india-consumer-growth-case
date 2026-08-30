@@ -1,41 +1,29 @@
 # Coca-Cola India consumer growth case
 
-I used public company reporting and consumer research to answer one question: how could Coca-Cola turn the reach of a large Indian cultural event into repeat purchases after the event?
+This public-source case asks how the reach of a major Indian occasion could lead to a second purchase after the event.
 
-> **Independent public-source case study. I did not work for Coca-Cola and I did not use company-confidential data.** Recommendations are hypotheses to test, not claims about Coca-Cola's internal plans.
+> Independent case study based on public reporting and published consumer research.
 
-## The short version
-
-Coca-Cola reported double-digit India volume growth in Q1 2025 after a large Maha Kumbh activation, including more than 180 million servings. For full-year 2025, volume in India and Southwest Asia was even. Those periods are not directly comparable, but together they suggest a useful strategy question: how can high-reach moments create repeat behaviour after the event ends?
-
-My answer is an **occasion-to-habit pilot** built around a locally relevant moment, a personalized pack people want to share, an affordable entry pack chosen after checking outlet economics, and a measurable reason to return.
+Coca-Cola reported double-digit India volume growth in Q1 2025 and more than 180 million servings during its Maha Kumbh activation. Its 2025 Form 10-K later reported full-year unit-case volume in India and Southwest Asia as even. The periods are different and cannot be read as a campaign result. They do, however, make repeat purchase a useful problem to test.
 
 ![Public evidence and case inference](visuals/public-signal.png)
 
-## Review the work
+## Recommendation
 
-- [PowerPoint case deck](deck/coca-cola-india-occasion-to-habit-case.pptx)
-- [PDF case deck](deck/coca-cola-india-occasion-to-habit-case.pdf)
-- [Written case notes](CASE_NOTES.md)
+Run a three-cell outlet pilot around one locally relevant consumption occasion:
+
+1. Current assortment and communication.
+2. A personalized pack cue linked to the occasion.
+3. The same cue with a group-sharing prompt and a reason to return.
+
+The primary measure is incremental transactions per eligible outlet. Thirty-day repeat, gross margin after activation cost, availability and opt-in behavior are the checks around it.
+
+## Files
+
+- [PowerPoint deck](deck/coca-cola-india-occasion-to-habit-case.pptx)
+- [PDF deck](deck/coca-cola-india-occasion-to-habit-case.pdf)
+- [Case notes](CASE_NOTES.md)
 - [Evidence ledger](analysis/evidence-ledger.csv)
-- [Source list](sources/SOURCES.md)
+- [Sources](sources/SOURCES.md)
 
-## What I would test
-
-Three outlet groups over a fixed pilot window:
-
-1. Business as usual.
-2. Personalized pack cue tied to a local occasion.
-3. The same cue plus a group-sharing prompt and a repeat mechanism.
-
-The decision metric is incremental transactions per eligible outlet. Repeat within 30 days, gross margin after activation cost, stock availability and opt-in share behaviour are guardrails.
-
-![Pilot measurement hierarchy](visuals/measurement.png)
-
-## Why this is a strategy case, not a campaign review
-
-The case separates verified facts, research evidence and my interpretation. It moves from a market signal to a mechanism, then into an experiment with stop rules. I have deliberately not invented a market size, a price point or a return forecast where public data is not enough.
-
-## Sources
-
-The main sources are Coca-Cola's 2025 Form 10-K, 2025 earnings releases, the official Share a Coke campaign page and peer-reviewed work on personalization, psychological ownership and self-reference. Full URLs and claim notes are in [SOURCES.md](sources/SOURCES.md).
+The proposal deliberately leaves price, package choice and return forecasts open because public data does not provide outlet economics or a test baseline.
