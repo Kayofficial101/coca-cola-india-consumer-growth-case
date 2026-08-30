@@ -39,4 +39,3 @@ The case separates verified facts, research evidence and my interpretation. It m
 ## Sources
 
 The main sources are Coca-Cola's 2025 Form 10-K, 2025 earnings releases, the official Share a Coke campaign page and peer-reviewed work on personalization, psychological ownership and self-reference. Full URLs and claim notes are in [SOURCES.md](sources/SOURCES.md).
-Independent public-source strategy case on Coca-Cola India, personalization, occasions, affordability and growth experiments.
